@@ -1,0 +1,10 @@
+D:\bin\student\мдк\2 сессия\ClassLibrary1\bin\Debug\netcoreapp3.1\SF2022UserEkbParkLib.deps.json
+D:\bin\student\мдк\2 сессия\ClassLibrary1\bin\Debug\netcoreapp3.1\SF2022UserEkbParkLib.dll
+D:\bin\student\мдк\2 сессия\ClassLibrary1\bin\Debug\netcoreapp3.1\SF2022UserEkbParkLib.pdb
+D:\bin\student\мдк\2 сессия\ClassLibrary1\obj\Debug\netcoreapp3.1\SF2022UserEkbParkLib.csproj.AssemblyReference.cache
+D:\bin\student\мдк\2 сессия\ClassLibrary1\obj\Debug\netcoreapp3.1\SF2022UserEkbParkLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\bin\student\мдк\2 сессия\ClassLibrary1\obj\Debug\netcoreapp3.1\SF2022UserEkbParkLib.AssemblyInfoInputs.cache
+D:\bin\student\мдк\2 сессия\ClassLibrary1\obj\Debug\netcoreapp3.1\SF2022UserEkbParkLib.AssemblyInfo.cs
+D:\bin\student\мдк\2 сессия\ClassLibrary1\obj\Debug\netcoreapp3.1\SF2022UserEkbParkLib.csproj.CoreCompileInputs.cache
+D:\bin\student\мдк\2 сессия\ClassLibrary1\obj\Debug\netcoreapp3.1\SF2022UserEkbParkLib.dll
+D:\bin\student\мдк\2 сессия\ClassLibrary1\obj\Debug\netcoreapp3.1\SF2022UserEkbParkLib.pdb
